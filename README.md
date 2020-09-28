@@ -4,7 +4,7 @@ This reposity contains a successive series of phases from simplest to most compl
 
 CPP Examples can be compiled with,
 
-./run_cpp_examples.sh 
+./compile_cpp_examples.sh 
 
 after downloading and compiling z3 library according to the given instructions in the github page.
 
